@@ -15,7 +15,7 @@
 <div align="center">
 
 <a href="#"><img src="https://img.shields.io/badge/downloads-1.9k-brightgreen?style=flat" alt="downloads"/></a>
-<a href="#"><img src="https://img.shields.io-badge/version-4.0-blue?style=flat" alt="version"/></a>
+<a href="#"><img src="https://img.shields.io/badge/version-4.0-blue?style=flat" alt="version"/></a>
 <a href="#"><img src="https://img.shields.io/badge/license-Pro%20License-lightgrey?style=flat" alt="license"/></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-macOS-blue?style=flat" alt="platform"/></a>
 
